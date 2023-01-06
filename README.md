@@ -6,3 +6,8 @@
 ## TUGAS : BAHASA PEMROGRAMAN
 
 # TUGAS UAS
+
+![p](gambar/g1.png)
+<br>
+
+![p](gambar/g2.png)
