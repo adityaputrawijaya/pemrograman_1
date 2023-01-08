@@ -6,6 +6,8 @@
 ## TUGAS : BAHASA PEMROGRAMAN
 
 # TUGAS UAS
+## LINK YOTUBE
+https://youtu.be/GK6dg1ucr1o
 
 ## Membuat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 • Method tambah() untuk menambah data
