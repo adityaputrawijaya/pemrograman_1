@@ -4,7 +4,7 @@
 ## NIM : 312210207
 ## KELAS : TI.22.A.2
 ## TUGAS : BAHASA PEMROGRAMAN
-
+## PDF : https://drive.google.com/file/d/1fjhl3wTeEz-NpKAUflL0xEZtYa9G3bY1/view?usp=drivesdk
 # TUGAS UAS
 ## LINK YOTUBE
 https://youtu.be/GK6dg1ucr1o
